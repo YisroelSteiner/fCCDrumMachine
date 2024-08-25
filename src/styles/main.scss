@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+$primary-color: #cdcbca;
+$secondary-color: #9a94e7;
+$tertiary-color: #f3f1f1;
+
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: $primary-color;
+  overflow: hidden;
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#drum-machine{
+  height: 40vh;
+  width: 40vw;
+  margin: 20vh 30vw 40vh 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: $secondary-color;
+}
+
+#panel {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+#display *{
+  background-color: $tertiary-color;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.drum-pad {
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  cursor: pointer;
+  background-color: $tertiary-color;
+}
+
+.drum-pad:hover{
+  background: linear-gradient($primary-color, $tertiary-color);
+}
+

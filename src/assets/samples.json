@@ -1,0 +1,55 @@
+[{
+    "name": "Q",
+    "keyCode": 81,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-1.mp3",
+    "description":"Sound Q" 
+  },
+  {
+    "name": "W",
+    "keyCode": 87,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-2.mp3",
+    "description": "Sound W" 
+  },
+  {
+    "name": "E",
+    "keyCode": 69,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-3.mp3",
+    "description": "Sound E" 
+  },
+  {
+    "name": "A",
+    "keyCode": 65,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-4_1.mp3",
+    "description": "Sound A" 
+  },
+  {
+    "name": "S",
+    "keyCode": 83,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-6.mp3",
+    "description": "Sound S" 
+  },
+  {
+    "name": "D",
+    "keyCode": 68,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Dsc_Oh.mp3",
+    "description": "Sound D" 
+  },
+  {
+    "name": "Z",
+    "keyCode": 90,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Kick_n_Hat.mp3",
+    "description": "Sound Z" 
+  },
+  {
+    "name": "X",
+    "keyCode": 88,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/RP4_KICK_1.mp3",
+    "description": "Sound X" 
+  },
+  {
+    "name": "C",
+    "keyCode": 67,
+    "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Cev_H2.mp3",
+    "description": "Sound C" 
+  }
+]
